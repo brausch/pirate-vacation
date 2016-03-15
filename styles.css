@@ -1,0 +1,12 @@
+img.x {
+  margin-top: 10px;
+  width: 35px;
+  height: auto;
+  vertical-align: middle;
+  margin-bottom: 10px;
+}
+
+p.x-list {
+  font-size: 25px;
+  line-height: 20px;
+}
